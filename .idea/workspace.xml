@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69f1b062-70da-411e-b81c-112448d3808b" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/go-app/asm-easm-caasm/easm-caasm/cmd/easm-caasm/wire_gen.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-app/asm-easm-caasm/easm-caasm/cmd/easm-caasm/wire_gen.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-app/asm-easm-caasm/easm-caasm/configs/config-dev.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/go-app/asm-easm-caasm/easm-caasm/configs/config-dev.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-app/asm-easm-caasm/easm-caasm/configs/config-local.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/go-app/asm-easm-caasm/easm-caasm/configs/config-local.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-app/asm-easm-caasm/easm-caasm/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go-app/asm-easm-caasm/easm-caasm/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-cybersec/diglab/configs/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/go-cybersec/diglab/configs/config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-saas/easm-saas-cybersec/easm-saas-diglab/configs/config-local.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/go-saas/easm-saas-cybersec/easm-saas-diglab/configs/config-local.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../Go1.21.8" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/go-app" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2l3JOYRi2dkUZm4DSWJ8d7CxtNQ" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "I:/talentsec",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-33c477a475b1-e0158606a674-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-241.15989.157" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-GO-241.15989.157" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
